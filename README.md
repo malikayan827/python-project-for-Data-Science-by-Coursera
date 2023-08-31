@@ -5,7 +5,6 @@ This repository contains a data science project that focuses on extracting essen
 ## Table of Contents
 - [Introduction](#introduction)
 - [Requirements](#requirements)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
 - [Authors](#authors)
@@ -18,12 +17,8 @@ In this project, we aim to extract and visualize stock data and revenue data for
 - Python (3.x)
 - Libraries: yfinance, BeautifulSoup, Plotly
 
-## Installation
- Install required libraries: `pip install -r requirements.txt`
-
 ## Usage
-1. Open the Jupyter notebook `notebooks/stock_data_extraction.ipynb`.
-2. Follow the provided instructions in the notebook to extract stock and revenue data and create visualizations.
+ Follow the provided instructions in the notebook to extract stock and revenue data and create visualizations.
 
 ## Results
 The project aims to create visualizations that showcase the historical stock data and revenue data for Tesla and GameStop. The resulting graphs offer insights into the stock performance and revenue trends of these companies.
